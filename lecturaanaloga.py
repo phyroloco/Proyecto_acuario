@@ -15,3 +15,5 @@ while True: #do forever
         pH = voltaje * (14.0/3.2)
         print (pH)
         time.sleep(1)
+
+#Hols
